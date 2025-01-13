@@ -43,7 +43,7 @@ export default function Hero() {
           aria-label="Global"
         >
           <div className="flex lg:flex-1">
-            <p className="-m-1.5 p-1.5 font-semibold">React Portfolio</p>
+            <p className="-m-1.5 p-1.5 font-semibold">Abdurrahman.dev</p>
           </div>
           <div className="flex lg:hidden">
             <button
@@ -136,17 +136,14 @@ export default function Hero() {
       </header>
       <div className="py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div
-            className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 py-32"
-            data-aos="zoom-in"
-          >
-            <div className="grid justify-center items-center">
+          <div className="  py-28" data-aos="zoom-in">
+            {/* <div className="grid justify-center items-center">
               <img
                 src={pfp}
                 alt="Sohom Mondal"
                 className="w-72 rounded-full drop-shadow-2xl"
               />
-            </div>
+            </div> */}
             <div className="grid justify-center items-center mt-3">
               <div className="text-center">
                 <div className="text-2xl tracking-tight sm:text-3xl">
@@ -155,12 +152,12 @@ export default function Hero() {
               </div>
               <div className="text-center">
                 <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
-                  Sohom Mondal
+                  Abdurrahman Ibrahim
                 </h1>
                 <p className="mt-6 text-2xl leading-8">
                   <TypeAnimation
                     sequence={[
-                      "I'm a Frontend Developer",
+                      "I'm a Frontend React Developer",
                       2000,
                       "I'm a UI/UX Designer",
                       2000,

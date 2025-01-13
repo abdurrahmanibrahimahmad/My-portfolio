@@ -6,7 +6,7 @@ import "aos/dist/aos.css";
 const frontend = [
   {
     name: "HTML/CSS",
-    value: 80,
+    value: 85,
     icon: CheckCircleIcon,
   },
   {
@@ -20,45 +20,13 @@ const frontend = [
     icon: CheckCircleIcon,
   },
   {
-    name: "Next.js",
+    name: "Sass",
     value: 60,
     icon: CheckCircleIcon,
   },
   {
     name: "TailwindCSS",
     value: 80,
-    icon: CheckCircleIcon,
-  },
-];
-const backend = [
-  {
-    name: "NodeJS",
-    value: 30,
-    icon: CheckCircleIcon,
-  },
-  {
-    name: "Python",
-    value: 75,
-    icon: CheckCircleIcon,
-  },
-  {
-    name: "MySQL",
-    value: 50,
-    icon: CheckCircleIcon,
-  },
-  {
-    name: "APIs",
-    value: 20,
-    icon: CheckCircleIcon,
-  },
-  {
-    name: "MongoDB",
-    value: 40,
-    icon: CheckCircleIcon,
-  },
-  {
-    name: "GraphQL",
-    value: 30,
     icon: CheckCircleIcon,
   },
 ];
@@ -76,7 +44,7 @@ export default function Skills() {
             Skills
           </p>
         </div>
-        <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:gap-y-10">
+        <div className="mx-auto  max-w-2xl  ">
           <div
             className="mt-10 max-w-2xl sm:mt-10 lg:mt-10 lg:max-w-4xl bg-base-200 ring-2 ring-base-300 rounded-2xl p-5 shadow-xl"
             data-aos="zoom-in"
@@ -104,7 +72,7 @@ export default function Skills() {
               ))}
             </dl>
           </div>
-          <div
+          {/* <div
             className="mt-10 max-w-2xl sm:mt-10 lg:mt-10 lg:max-w-4xl bg-base-200 ring-2 ring-base-300 rounded-2xl p-5 shadow-xl"
             data-aos="zoom-in"
           >
@@ -130,7 +98,7 @@ export default function Skills() {
                 </div>
               ))}
             </dl>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

@@ -82,9 +82,9 @@ export default function Projects() {
             </div>
           ))}
         </div>
-        <div className="mt-16 flex justify-center">
+        {/* <div className="mt-16 flex justify-center">
           <button className="btn btn-outline">View More</button>
-        </div>
+        </div> */}
       </div>
     </div>
   );

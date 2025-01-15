@@ -52,7 +52,7 @@ export default function Skills() {
             <p className="text-2xl text-center font-bold mb-6">
               Frontend Development
             </p>
-            <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-6 lg:max-w-none lg:grid-cols-2 lg:gap-y-6">
+            <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-6  ">
               {frontend.map((frontend) => (
                 <div key={frontend.name} className="relative pl-16">
                   <dt className="text-base font-semibold leading-7">

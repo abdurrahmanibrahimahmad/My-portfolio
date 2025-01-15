@@ -28,7 +28,7 @@ const projects = [
     name: "My Blogs",
     github: "https://github.com/abdurrahmanibrahimahmad/atomic-blog",
     liveDemo: "https://atomic-blog-698w.vercel.app/",
-    imageSrc: "./blog1.png",
+    imageSrc: "https://th.bing.com/th/id/R.e468142fc2bd5e967bbacb53bc1c47db?rik=%2biEkhtffgcu16w&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f4464364%2fimages%2fo-BLOG-facebook.jpg&ehk=Rw7NcjKafs7p4N%2b532nXNEshAy46iP6%2fU%2fqopgTXbX8%3d&risl=&pid=ImgRaw&r=0",
 
     used: "ReactJS, CSS",
     description:

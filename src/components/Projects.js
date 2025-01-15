@@ -8,7 +8,7 @@ const projects = [
     name: "Pizza Restaurant",
     github: "https://github.com/abdurrahmanibrahimahmad/Fast-react-pizza",
     liveDemo: "https://fast-react-pizza-dev.vercel.app",
-    imageSrc: "https://th.bing.com/th/id/OIP.oi7KuZgFvOXs2paggnNwGwHaE7?w=219&h=180&c=7&r=0&o=5&pid=1.7",
+    imageSrc: "https://img.freepik.com/premium-photo/delicious-pizza-with-tomatoes-leaf-lemon-pepper-dark-background-with-fire-effect-ai-generated_600260-939.jpg",
     used: "ReactJS, TailwindCSS",
     description:
       "A dynamic pizza ordering website built with React and some third-party libraries, featuring real-time location tracking, an interactive menu, and API integration for seamless ordering ",

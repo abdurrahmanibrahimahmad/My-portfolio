@@ -39,7 +39,7 @@ const projects = [
     name: "Eat n Split",
     github: "https://github.com/abdurrahmanibrahimahmad/eat-n-split",
     liveDemo: "https://eat-n-split-teal-kappa.vercel.app/",
-    imageSrc: "https://th.bing.com/th/id/OIP.V5mLZGFdaDrS9DqRvcWwZQHaHa?rs=1&pid=ImgDetMain",
+    imageSrc: "https://plus.unsplash.com/premium_photo-1678139620956-cbd87b6ba3d0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     used: "ReactJS, CSS",
     description:
       "This website is a simple and intuitive app that allows users to split restaurant bills among friends. It calculates individual shares, including tips, and helps users easily manage and track their expenses.",

@@ -8,7 +8,7 @@ const projects = [
     name: "Pizza Restaurant",
     github: "https://github.com/abdurrahmanibrahimahmad/Fast-react-pizza",
     liveDemo: "https://fast-react-pizza-dev.vercel.app",
-    imageSrc: "/Fast-react-pizza-photo.png",
+    imageSrc: "./Fast-react-pizza-photo.png",
     used: "ReactJS, TailwindCSS",
     description:
       "A dynamic pizza ordering website built with React and some third-party libraries, featuring real-time location tracking, an interactive menu, and API integration for seamless ordering ",
@@ -18,7 +18,7 @@ const projects = [
     name: "Shopping List",
     github: "https://github.com/abdurrahmanibrahimahmad/Fast-react-pizza",
     liveDemo: "https://shopping-lists-lac.vercel.app/",
-    imageSrc: "/shopping-list.png",
+    imageSrc: "./shopping-list.png",
     used: "ReactJS, CSS",
     description:
       "A simple and intuitive shopping list app built with React, allowing users to create, manage, and track their shopping lists with ease. It features smooth item addition, deletion, and real-time updates.",
@@ -28,7 +28,7 @@ const projects = [
     name: "My Blogs",
     github: "https://github.com/abdurrahmanibrahimahmad/atomic-blog",
     liveDemo: "https://atomic-blog-698w.vercel.app/",
-    imageSrc: "/blog1.png",
+    imageSrc: "./blog1.png",
 
     used: "ReactJS, CSS",
     description:
@@ -39,7 +39,7 @@ const projects = [
     name: "Eat n Split",
     github: "https://github.com/abdurrahmanibrahimahmad/eat-n-split",
     liveDemo: "https://eat-n-split-teal-kappa.vercel.app/",
-    imageSrc: "bill.png",
+    imageSrc: "./bill.png",
     used: "ReactJS, CSS",
     description:
       "This website is a simple and intuitive app that allows users to split restaurant bills among friends. It calculates individual shares, including tips, and helps users easily manage and track their expenses.",

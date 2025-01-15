@@ -57,7 +57,7 @@ export default function Projects() {
         <p className="mt-2 text-4xl font-bold tracking-tight sm:text-6xl">
           Projects
         </p>
-        <div className="mt-10 grid grid-cols-1  gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
+        <div className="mt-10 grid grid-cols-1 overflow-hidden  gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
           {projects.map((project) => (
             <div
               key={project.id}

@@ -18,7 +18,7 @@ const projects = [
     name: "Shopping List",
     github: "https://github.com/abdurrahmanibrahimahmad/Fast-react-pizza",
     liveDemo: "https://shopping-lists-lac.vercel.app/",
-    imageSrc: "./shopping-list.png",
+    imageSrc: "https://th.bing.com/th/id/R.9ecf172601d56d940b985ee0e62ed829?rik=U0jFUkLmnxBuQg&pid=ImgRaw&r=0",
     used: "ReactJS, CSS",
     description:
       "A simple and intuitive shopping list app built with React, allowing users to create, manage, and track their shopping lists with ease. It features smooth item addition, deletion, and real-time updates.",

@@ -44,7 +44,7 @@ export default function About() {
           data-aos="fade-left"
         >
           <img
-            className="w-[38rem] h-32 ring-2 ring-base-300 max-w-none rounded-xl shadow-xl sm:w-[57rem]"
+            className="w-[38rem] ring-2 ring-base-300 max-w-none rounded-xl shadow-xl sm:w-[57rem]"
             src="https://plus.unsplash.com/premium_photo-1669686968068-ef4133a3e782?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Person"
           />
